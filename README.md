@@ -37,10 +37,15 @@ This project focuses on analyzing sales data to extract meaningful insights and 
 - `sql/` → SQL queries  
 - `powerbi/` → Power BI dashboard file  
 - `excel/` → Excel dashboard  
-- `images/` → Dashboard screenshots  
+- `images/` → Dashboard screenshots
+- Readme.md > about the project
+  
 
 ## Project Preview
+The following dashboard presents key sales insights including revenue trends, regional performance, and category-wise analysis.
 ![Dashboard](images/dashboard_preview.png)
 
 ## Conclusion
-This project demonstrates an end-to-end data analysis process, from data cleaning to visualization, using industry-relevant tools.
+This project demonstrates an end-to-end data analysis workflow, starting from data cleaning using Python, data querying using SQL, and dashboard creation using Excel and Power BI.
+
+Through this analysis, meaningful insights were generated to understand sales performance, identify trends, and highlight areas of improvement. This project helped strengthen practical skills in data handling, visualization, and business decision support.
